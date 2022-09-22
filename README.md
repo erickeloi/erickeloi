@@ -46,7 +46,7 @@
     
 ---
   
-## How to reach me:
+## Feel Free to contact me:
   <a href="https://www.linkedin.com/in/erick-eloi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 
