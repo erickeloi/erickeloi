@@ -5,7 +5,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
 - 👀 I’m interested in DevOps and Cloud
-- 🌱 I’m currently learning **DevOps and Cloud**
+- 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **Python**
 
 ---
