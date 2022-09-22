@@ -31,7 +31,7 @@
   
 - 📖 **Data Scientist Intern**\
 📆 April/2022 - July/2022
-📍 **Secretary Of Intelligence and Criminal analysis** (SIAC - SEGUP) - Belém (PA), Brazil
+📍 **Secretary Of Intelligence and Criminal Analysis** (SIAC - SEGUP) - Belém (PA), Brazil
 
 - 👨‍💻 **Technical Support**\
 📆 Sept/2021 - April/2022
