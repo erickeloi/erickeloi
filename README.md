@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Erick Eloi</h1> 
 <img align='right' src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="300" height="330" />
 
-<p align="left"> <b>☁ DevOps and Cloud ☁</b> </p> 
+<p align="left"> <b>☁ DevOps and Data ☁</b> </p> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
-- 👀 I’m interested in Python, DevOps and Cloud
+- 👀 I’m interested in Python, DevOps and Data
 - 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **Python**
 
@@ -14,7 +14,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
   <img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
   <img align="center" alt="Kuberneties" src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white">
   <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
