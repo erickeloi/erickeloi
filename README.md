@@ -30,7 +30,11 @@
 <details>     
  <summary>📃 Experience</summary>
   
-- 📖 **DevOps Intern**\
+- 📖 **Solution Provider Intern**\
+📆 Apr/2023 - Now
+📍 **Mundiale** - Remote, Brazil
+
+- 📖 **DevOps Scholarship Program**\
 📆 July/2022 - Dec/2022
 📍 **Compass.oul** - Remote, Brazil
   
