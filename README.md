@@ -4,7 +4,7 @@
 
 <img align='right' src="https://github.com/erickeloi/erickeloi/assets/65841249/704a513b-993f-4266-9af0-2e04fa463f59" width="300" height="330" />
 
-<p align="left"> <b>☁ DevOps and Data ☁</b> </p> 
+<p align="left"> <b>☁ AI, DevOps and Data ☁</b> </p> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
 - 👀 I’m interested in AI, DevOps and Data
