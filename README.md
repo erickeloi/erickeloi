@@ -7,8 +7,8 @@
 <p align="left"> <b>☁ DevOps and Data ☁</b> </p> 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me... 
-- 👀 I’m interested in Python, DevOps and Data
-- 🌱 I’m currently learning **AWS**
+- 👀 I’m interested in AI, DevOps and Data
+- 🌱 I’m currently learning **Google Cloud Platform**
 - 💬 Ask me about **Python**
 
 ---
